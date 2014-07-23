@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="category_name">
+        <item>精品课程</item>
+        <item>垂直领域</item>
+        <item>生命科学</item>
+        <item>环境科学</item>
+        <item>营养与健康</item>
+        <item>化学</item>
+        <item>物理</item>
+        <item>工程学</item>
+        <item>计算机</item>
+        <item>数学</item>
+        <item>数据分析</item>
+        <item>经管</item>
+        <item>法律</item>
+        <item>国际关系</item>
+        <item>社会科学</item>
+        <item>文学和历史</item>
+        <item>伦理哲思</item>
+        <item>思维训练</item>
+        <item>信息传播</item>
+        <item>艺术设计</item>
+        <item>体育</item>
+    </string-array>
+    <string-array name="category_name_small">
+        <item>精品课程</item>
+        <item>垂直领域</item>
+        <item>生命科学</item>
+        <item>环境科学</item>
+        <item>营养与健康</item>
+        <item>化学</item>
+        <item>物理</item>
+        <item>工程学</item>
+        <item>计算机</item>
+        <item>数学</item>
+        <item>数据分析</item>
+        <item>其他</item>
+    </string-array>
+    <string-array name="category_list">
+        <item>云计算</item>
+        <item>数据科学</item>
+        <item>创业管理</item>
+    </string-array>
+    <string-array name="category_level">
+        <item>入门</item>
+        <item>进阶</item>
+        <item>探索</item>
+    </string-array>
+    <string-array name="category_des">
+        <item>攻城狮？还在为服务器、数据库神马的焦头烂额咩？丢给云，即可专注于核心代码开发！创业家？还在为搭建认证服务、邮件服务、存储服务浪费宝贵时间？云应有尽有，快速上线敏捷起来！云计算领域的课程将带领你从最基础的计算机科学课程开始学习，在理论学习和编程实践的过程中不断加深对云计算相关知识的理解，即使是没有任何编程基础的学习者也可以一步步成为该领域的专家</item>
+    	<item>近年来，“大数据”已经成为科技界和企业界共同关注的热点话题。大数据时代的到来让人类的思维方式、战略需求和决策体系都发生了重大转变。大数据技术及相应的基础研究已经成为科技界的研究热点。数据科学是关于数据的科学，作为一个横跨信息科学、社会科学、网络科学、系统科学、心理学、经济学等诸多领域的新兴交叉学科，其方向正在逐步形成。在学习数据科学领域的课程中，你将逐步建立起基于数据的思维模式，学习到统计数据、挖掘数据、分析数据的基本原理和方法，并在实践中得到提高，成为大数据时代的赢家。</item>
+		<item>创业是项体力活！需要长期奋斗。创业更是项技术活！思维、管理、眼界八面玲珑!我们的用户在哪里？如何创新并建立有效的商业模式？如何用财务的思维进行分析和决策？如何诀别拖延症高效工作？如何跳出自我更好决策？如何拓展市场成为全球玩家？如何从日常生活中锻造思考力？</item>    
+    </string-array>
+
+</resources>

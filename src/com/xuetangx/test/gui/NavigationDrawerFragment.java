@@ -277,7 +277,7 @@ public class NavigationDrawerFragment extends Fragment {
 		if (item.getItemId() == R.id.action_example) {
 			Toast.makeText(getActivity(), "Example action.", Toast.LENGTH_SHORT)
 					.show();
-			Intent intent = new Intent(this.getActivity(), ListViewActivity.class);
+			Intent intent = new Intent(this.getActivity(), StickyListViewActivity.class);
 			this.getActivity().startActivity(intent);
 			return true;
 		}
